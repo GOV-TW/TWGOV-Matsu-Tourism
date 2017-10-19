@@ -10,6 +10,12 @@
 
 # 資料分類與清單
 
+## 綜合資訊
+- [連江縣政府](http://www.matsu.gov.tw)
+- [馬祖日報](http://www.matsu-news.gov.tw/)
+- [馬祖資訊網](http://www.matsu.idv.tw)
+- 
+
 ## 交通
 - 航空交通 - [縣府簡介/航班資訊](http://www.matsu.gov.tw/Chhtml/traffic/371030000A/23) : 南竿，北竿，松山，台中
 - 海運交通 - [縣府簡介/航班資訊](http://www.matsu.gov.tw/Chhtml/trafficport/371030000A/23) : 
@@ -66,7 +72,6 @@
 	- [莒光](https://www.matsu-nsa.gov.tw/User/Article.aspx?a=65&l=1)
 	- [東引](https://www.matsu-nsa.gov.tw/User/Article.aspx?a=82&l=1)
 
-
 ## 文化歷史
 - [攀講馬祖](https://voiceofmatsu.tw/)
 - 馬祖國家風景區
@@ -74,20 +79,29 @@
 	- [戰地風光](https://www.matsu-nsa.gov.tw/User/Article.aspx?a=182&l=1)
 	- [節慶活動](https://www.matsu-nsa.gov.tw/User/Article.aspx?a=785&l=1)
 	- [生態旅遊網/人文風情](https://www.matsu-nsa.gov.tw/EcologyWeb/Navigate.aspx?l=1&a=701)
-	- [背包客卡流去/軍事歷史](https://www.matsu-nsa.gov.tw/Backpacker/Article.aspx?a=380)
+	- [背包客卡蹓去/軍事歷史](https://www.matsu-nsa.gov.tw/Backpacker/Article.aspx?a=380)
+- 馬祖資訊網
+	- [馬祖廟宇](http://www.matsu.idv.tw/topicdetail.php?f=4&t=15912)
+	- [穿越眾神之門，尋訪馬祖歷史／馬祖通訊 1997-3-25出刊](http://www.matsu.idv.tw/topicdetail.php?f=176&t=9107)
+- [東引鄉志](http://www.dongyin.gov.tw/history.htm)
+- [連江縣志](http://gov.matsu.idv.tw/lienchiang/)
 
 ## 行程規劃
-
 - [背包客棧/【交通】【流放。馬祖】南北竿/東西莒/東西引~怎麼玩](https://www.backpackers.com.tw/forum/showthread.php?t=12040#160947)
 - 馬祖國家風景區
 	- [主題旅程](https://www.matsu-nsa.gov.tw/User/Article.aspx?a=7&l=1#)
 	- [生態旅遊網](https://www.matsu-nsa.gov.tw/EcologyWeb/Index.aspx)
+- [馬祖單車卡蹓](http://www.m-lohas.com.tw/about.html)
+- [馬祖國際馬拉松](https://bao-ming.com/eb/www/activity_content.php?activitysn=2259&contentsn=12065)
 
-## 其他
+## 其他 + 在地資訊
 - [背包客棧/馬祖攻略](https://www.backpackers.com.tw/guide/index.php/%E9%A6%AC%E7%A5%96)
 - [馬祖國家風景區/遊客中心](https://www.matsu-nsa.gov.tw/User/Article.aspx?a=162&l=1)
 - 馬祖資訊網/馬祖住宿通
 	- [旅遊諮詢](http://hotels.matsu.idv.tw/inquiry.php) : 旅遊諮詢，旅遊投訴，計程車糾紛申訴
 	- [漆彈、租船、賞鷗](http://hotels.matsu.idv.tw/fun.php)
 	- [特產、伴手禮](http://hotels.matsu.idv.tw/specialty.php)
+- [公司資料庫/連江縣](https://alltwcompany.com/a1-%E9%80%A3%E6%B1%9F%E7%B8%A3.html)
 - [105年度連江縣總決算審核報告](https://www.audit.gov.tw/ezfiles/0/1000/attach/17/pta_5332_4120740_32074.pdf)
+
+
